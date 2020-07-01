@@ -53,21 +53,30 @@ section{
 .latest-work{
     background-image: url("images/latest-work-bg.png");
 }
-.anchor-button{
-
-    text-decoration: none;
-    background-color: rgba(165, 24, 52, 0.856);
-    padding: 7px 30px 8px 30px;
-    border-radius: 5px;
-    color: white;
-    font-weight: bold;
-    
-}
 .center{
-    text-align: center;
+    
+
+        text-decoration: none;
+        background-color: #a51834da;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: 0%;
+        border: 1px solid black;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 400px;
+        margin-left: 400px;
+    
 }
 .footer-bg{
     background-image: url("images/footer-bg.png");
+}
+footer p{
+    text-align: center;
+    margin-top: 100px;
 }
     
     
